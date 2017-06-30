@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CustomAdapter</string>
+    <string name="hello">Hello World, AndroidGridLayoutActivity!</string>
+</resources>
